@@ -1,4 +1,7 @@
+yabediyans enem alehu
+
 # Weather-App
+
 Weather App is a web application created using HTML, CSS, and JavaScript. It leverages a weather API to provide real-time weather updates based on the user's current location. Additionally, the app offers a forecast for upcoming days, ensuring users stay prepared for changing weather conditions.
 
 Features
@@ -14,7 +17,6 @@ How to Use:
 4.The app will display the current weather for your location.
 5.Scroll down to view the forecast for upcoming days.
 6.Stay informed about the weather and plan your activities accordingly!
-
 
 Technologies Used:
 HTML: Used for creating the structure and layout of the web pages.
